@@ -10,6 +10,11 @@
       "StackName": "amplify-amplify1714927f3fca4-staging-85611",
       "StackId": "arn:aws:cloudformation:ap-south-1:398507099721:stack/amplify-amplify1714927f3fca4-staging-85611/e53cdac0-cfcd-11ee-ac63-0663e47e477f",
       "AmplifyAppId": "d3u7agfkh2c3br"
+    },
+    "categories": {
+      "auth": {
+        "motorcyclefinder62e139e2": {}
+      }
     }
   }
 }
